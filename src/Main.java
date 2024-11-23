@@ -4,5 +4,7 @@ public class Main {
        int b = 20;
        int sum = a + b;
         System.out.println(sum);
+
+        System.out.println("Malika");
     }
 }
