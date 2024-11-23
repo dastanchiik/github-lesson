@@ -9,3 +9,6 @@ public class Main {
         System.out.println("Kanukey Djanybekova");//kjhghjk
     }
 }
+
+        System.out.println("ulan");
+}}
