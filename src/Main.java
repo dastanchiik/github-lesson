@@ -7,8 +7,10 @@ public class Main {
 
         System.out.println("Malika");
         System.out.println("Kanukey Djanybekova");//kjhghjk
-    }
-}
+
 
         System.out.println("ulan");
+
+
+
 }}
